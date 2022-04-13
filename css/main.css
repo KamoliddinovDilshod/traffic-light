@@ -1,0 +1,49 @@
+.box{
+  position: relative;
+}
+
+.light{
+  display : block;
+  margin: 0 auto;
+  margin-top: 70px;
+}
+
+.red{
+  position: absolute;
+  top: 68px;
+  left: 705px;
+  display: block;
+  width: 91px;
+  height: 94px;
+  border-radius: 100%;
+}
+
+.yellow{
+  display: block;
+  position: absolute;
+  top: 214px;
+  left: 705px;
+  width: 91px;
+  height: 94px;
+  border-radius: 100%;
+}
+
+.black{
+  display: block;
+  position: absolute;
+  top: 214px;
+  left: 705px;
+  width: 91px;
+  height: 94px;
+  border-radius: 100%;
+}
+
+.green{
+  display: block;
+  position: absolute;
+  top: 360px;
+  left: 705px;
+  width: 91px;
+  height: 94px;
+  border-radius: 100%;
+}
